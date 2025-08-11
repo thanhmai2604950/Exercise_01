@@ -10,6 +10,7 @@ namespace Exercise_01
     {
         static void Main()
         {
+            //siuuuuuuuu
            Ex03();  
         }
         /// <summary>
